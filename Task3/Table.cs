@@ -7,7 +7,7 @@ public static class Table
     private static readonly string whiteSpace = " ";
     private static readonly int whiteSpaceLen = whiteSpace.Length;
 
-    public static void ShowGraph(string[] args)
+    public static void Generate(string[] args)
     {
         var draw = (Result.Draw).ToString();
         var lose = (Result.Lose).ToString();

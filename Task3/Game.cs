@@ -4,6 +4,13 @@ namespace Task3;
 
 public static class Game
 {
+    public static int numberOfGames;
+    public static int userScore;
+    public static int numberOfDraws;
+    public static int numberOfVictories;
+    public static int numberOfDefeats;
+    public static int comScore;
+
     public static void Exit()
     {
         Console.WriteLine("\t[The end!]");
@@ -13,15 +20,7 @@ public static class Game
 
     public static bool Play(string[] args)
     {
-        var resultOfFunc = Rule.CheckCommandLineArgs(args);
-        if (resultOfFunc.Item1 == false)
-        {
-            Console.WriteLine($"\t[Arguments need to be non-repeating!]");
-            Console.WriteLine($"\t[{resultOfFunc.Item2}]");
-            return false;
-        }
-
-        List<string> commands = ["x", "?"];
+        List<string> commands = ["x", "?", "%"];
 
         Random rand = new Random();
         int comMoveInd = rand.Next(0, args.Length);
@@ -49,6 +48,7 @@ public static class Game
 
         Console.WriteLine("\t[x] - exit");
         Console.WriteLine("\t[?] - help");
+        Console.WriteLine("\t[%] - statistics");
 
         Console.Write("Enter your move: ");
         dynamic? userMove = Console.ReadLine();
@@ -72,11 +72,17 @@ public static class Game
         }
         else if (userMove == "?")
         {
-            Table.ShowGraph(args);
+            Table.Generate(args);
             Console.WriteLine();
+        }
+        else if(userMove == "%")
+        {
+            ShowGraph();
         }
         else
         {
+            Game.numberOfGames+=1;
+
             userMove = Convert.ToInt32(userMove);
             Console.WriteLine($"\tYour move: {args[userMove]}");
 
@@ -91,5 +97,14 @@ public static class Game
         Console.WriteLine();
 
         return true;
+    }
+
+    public static void ShowGraph()
+    {
+        Console.WriteLine($"\tTotal games: {Game.numberOfGames}\n" +
+            $"\tVictories: {Game.numberOfVictories}\n" +
+            $"\tDefeats: {Game.numberOfDefeats}\n" +
+            $"\tDraws: {Game.numberOfDraws}\n" +
+            $"\tScore: {Game.userScore}\n");
     }
 }
