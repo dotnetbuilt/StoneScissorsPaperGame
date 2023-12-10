@@ -7,4 +7,19 @@ public static class Rule
 
     public static bool CheckUserMove(List<string> moves, string userMove)
         =>  moves.Contains(userMove);
+
+    public static (bool, string) CheckCommandLineArgs(string[] args)
+    {
+        for(int i = 0; i < args.Length; i++)
+            for(int j = 0;j<args.Length; j++)
+            {
+                if (i == j)
+                    continue;
+
+                if (args[i].Equals(args[j], StringComparison.OrdinalIgnoreCase))
+                    return (false, $"{args[i]} and {args[j]} are same words!");
+            }
+
+        return (true, "");
+    }
 }

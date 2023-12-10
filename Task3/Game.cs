@@ -6,13 +6,21 @@ public static class Game
 {
     public static void Exit()
     {
-        Console.WriteLine("\tThe end!");
+        Console.WriteLine("\t[The end!]");
         Console.WriteLine();
         Environment.Exit(0);
     }
 
     public static bool Play(string[] args)
     {
+        var resultOfFunc = Rule.CheckCommandLineArgs(args);
+        if (resultOfFunc.Item1 == false)
+        {
+            Console.WriteLine($"\t[Arguments need to be non-repeating!]");
+            Console.WriteLine($"\t[{resultOfFunc.Item2}]");
+            return false;
+        }
+
         List<string> commands = ["x", "?"];
 
         Random rand = new Random();
