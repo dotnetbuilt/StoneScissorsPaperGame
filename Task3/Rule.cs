@@ -3,17 +3,8 @@
 public static class Rule
 {
     public static string CalculateWhoWin(int userMoveInd, int comMoveInd)
-    {
-        if (comMoveInd == userMoveInd)
-            return "Draw!";
-        else if (comMoveInd < userMoveInd)
-            return "You won!";
-        
-        return "You lost!";
-    }
+        =>  comMoveInd == userMoveInd ? "Draw" : comMoveInd < userMoveInd ? "You won!" : "You lost!";
 
     public static bool CheckUserMove(List<string> moves, string userMove)
-    {
-        return moves.Contains(userMove);
-    }
+        =>  moves.Contains(userMove);
 }

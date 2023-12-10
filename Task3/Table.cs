@@ -45,7 +45,7 @@ public static class Table
                     case 0:
                         Console.Write(verticalBar);
                         Console.Write($"{whiteSpace}{draw}");
-                        ConsoleWriteWhiteSpace( colLens[i], draw.Length);
+                        ConsoleWriteWhiteSpace(colLens[i], draw.Length);
                         break;
                     case < 0:
                         Console.Write(verticalBar);

@@ -3,8 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\Abbos\\source\\repos\\Task3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\game.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\hmacgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\hmacgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -13,26 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\rule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\converter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\key.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\hmacgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\hmacgeneration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|c:\\users\\abbos\\source\\repos\\task3\\task3\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{39F06D72-83F3-43A6-AF20-6BE08214F9D8}|Task3\\Task3.csproj|solutionrelative:task3\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -45,64 +45,60 @@
           "SelectedChildIndex": 3,
           "Children": [
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
-            {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "Table.cs",
               "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Table.cs",
               "RelativeDocumentMoniker": "Task3\\Table.cs",
               "ToolTip": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Table.cs",
               "RelativeToolTip": "Task3\\Table.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAkAAAA",
+              "ViewState": "AQIAAE0AAAAAAAAAAAAgwF4AAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-10T12:38:45.967Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 5,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Result.cs",
               "RelativeDocumentMoniker": "Task3\\Result.cs",
               "ToolTip": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Result.cs",
               "RelativeToolTip": "Task3\\Result.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAIAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-10T09:10:20.046Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Game.cs",
               "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Game.cs",
               "RelativeDocumentMoniker": "Task3\\Game.cs",
               "ToolTip": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Game.cs",
               "RelativeToolTip": "Task3\\Game.cs",
-              "ViewState": "AQIAAAoAAAAAAAAAAAArwBYAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-09T11:22:20.027Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Converter.cs",
               "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Converter.cs",
               "RelativeDocumentMoniker": "Task3\\Converter.cs",
               "ToolTip": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Converter.cs",
               "RelativeToolTip": "Task3\\Converter.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAoAAAAhAAAA",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-07T15:34:37.413Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 2,
               "Title": "HMACGeneration.cs",
               "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\HMACGeneration.cs",
               "RelativeDocumentMoniker": "Task3\\HMACGeneration.cs",
@@ -115,20 +111,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 7,
               "Title": "Rule.cs",
               "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Rule.cs",
               "RelativeDocumentMoniker": "Task3\\Rule.cs",
               "ToolTip": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Rule.cs",
               "RelativeToolTip": "Task3\\Rule.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAlAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2023-12-07T14:46:13.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Key.cs",
               "DocumentMoniker": "C:\\Users\\Abbos\\source\\repos\\Task3\\Task3\\Key.cs",
               "RelativeDocumentMoniker": "Task3\\Key.cs",

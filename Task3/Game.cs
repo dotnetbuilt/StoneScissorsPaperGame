@@ -48,7 +48,7 @@ public static class Game
         dynamic? userMove = Console.ReadLine();
 
         var isValid = Rule.CheckUserMove(commands, userMove);
-        if ( isValid == false)
+        if (isValid == false)
         {
             Console.Write("\tEnter arguments like these: ");
             for (int i = 0; i < args.Length; i++)
