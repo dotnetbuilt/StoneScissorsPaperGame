@@ -51,4 +51,9 @@ public static class Rule
            ? (true, "")
            : (false, error);
     }
+
+    public static bool CheckEveryArg(string[] args)
+    {
+        return args.All(arg => arg.Length >=4);
+    }
 }

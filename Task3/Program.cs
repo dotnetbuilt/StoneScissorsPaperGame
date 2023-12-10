@@ -20,6 +20,13 @@ public class Program
                 break;
             }
 
+            var everyArg = Rule.CheckEveryArg(args);
+            if(everyArg == false)
+            {
+                Console.WriteLine("\t[Every argument's length in arguments must be equal or greater than 4!]");
+                break;
+            }
+
             var res = Game.Play(args);
             if(res==false) 
                 break;
