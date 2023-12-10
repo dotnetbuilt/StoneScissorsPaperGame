@@ -11,8 +11,6 @@ public static class Game
         Environment.Exit(0);
     }
 
-    
-
     public static bool Play(string[] args)
     {
         List<string> commands = ["x", "?"];
